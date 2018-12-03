@@ -1,0 +1,15 @@
+c:\users\t_tengw\documents\visual studio 2010\Projects\CSharpProjectPrototype3\CSharpProjectPrototype3\bin\Debug\CSharpProjectPrototype3.exe
+c:\users\t_tengw\documents\visual studio 2010\Projects\CSharpProjectPrototype3\CSharpProjectPrototype3\bin\Debug\CSharpProjectPrototype3.pdb
+c:\users\t_tengw\documents\visual studio 2010\Projects\CSharpProjectPrototype3\CSharpProjectPrototype3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\t_tengw\documents\visual studio 2010\Projects\CSharpProjectPrototype3\CSharpProjectPrototype3\obj\x86\Debug\CSharpProjectPrototype3.Form1.resources
+c:\users\t_tengw\documents\visual studio 2010\Projects\CSharpProjectPrototype3\CSharpProjectPrototype3\obj\x86\Debug\CSharpProjectPrototype3.Properties.Resources.resources
+c:\users\t_tengw\documents\visual studio 2010\Projects\CSharpProjectPrototype3\CSharpProjectPrototype3\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\t_tengw\documents\visual studio 2010\Projects\CSharpProjectPrototype3\CSharpProjectPrototype3\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\t_tengw\documents\visual studio 2010\Projects\CSharpProjectPrototype3\CSharpProjectPrototype3\obj\x86\Debug\CSharpProjectPrototype3.exe
+c:\users\t_tengw\documents\visual studio 2010\Projects\CSharpProjectPrototype3\CSharpProjectPrototype3\obj\x86\Debug\CSharpProjectPrototype3.pdb
+c:\users\t_tengw\documents\visual studio 2010\Projects\CSharpProjectPrototype3\CSharpProjectPrototype3\obj\x86\Debug\CSharpProjectPrototype3.csproj.ResolveComReference.cache
+C:\Users\t_tengw\documents\visual studio 2010\Projects\CSharpProjectPrototype3\CSharpProjectPrototype3\bin\Debug\CSharpProjectPrototype3.exe.manifest
+C:\Users\t_tengw\documents\visual studio 2010\Projects\CSharpProjectPrototype3\CSharpProjectPrototype3\bin\Debug\CSharpProjectPrototype3.application
+C:\Users\t_tengw\documents\visual studio 2010\Projects\CSharpProjectPrototype3\CSharpProjectPrototype3\obj\x86\Debug\CSharpProjectPrototype3.exe.manifest
+C:\Users\t_tengw\documents\visual studio 2010\Projects\CSharpProjectPrototype3\CSharpProjectPrototype3\obj\x86\Debug\CSharpProjectPrototype3.application
+C:\Users\t_tengw\documents\visual studio 2010\Projects\CSharpProjectPrototype3\CSharpProjectPrototype3\obj\x86\Debug\CSharpProjectPrototype3.AboutBox1.resources
